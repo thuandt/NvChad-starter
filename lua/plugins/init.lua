@@ -13,6 +13,9 @@ return {
     end,
   },
 
+  -- terraform
+  { "hashivim/vim-terraform" },
+
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
   -- 	opts = {
